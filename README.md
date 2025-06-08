@@ -3,7 +3,7 @@ Hey there! 👋
 This notebook is all about exploring restaurant data using real-world Zomato data (along with a little help from a country code sheet). The main idea was to dig into restaurant trends, especially focusing on India, and answer some interesting questions using Python.Whether you're working on a project, studying data science, or just curious about what restaurant data looks like — this should be a good starting point.
 
 # What You’ll Find in This Notebook
-I tried to achieve in this analysis:
+	•	I tried to achieve in this analysis:
  	•	Merge the Zomato data with the country code sheet to identify countries properly.
 	•	Find the top-rated restaurants in every Indian city (based on ratings and votes).
 	•	Understand the relationship between ratings and the number of votes.
